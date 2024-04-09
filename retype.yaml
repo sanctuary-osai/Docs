@@ -1,4 +1,4 @@
-input: .pages
+input: ./pages
 output: .retype
 url: https://sanctuary-osai.github.io/
 branding:
