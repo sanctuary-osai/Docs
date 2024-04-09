@@ -3,10 +3,12 @@ output: .retype
 url: sanctuary-osai.github.io/Docs/
 branding:
   title: sanctuary-osai
-  image: ./images/logo.png
+  image: 
   label: Docs
 links:
   - text: discord
     link: https://discord.gg/kSaydjBXwf 
 footer:
   copyright: "&copy; Copyright . Unlicense."
+
+favicon: ../images/logo.png
