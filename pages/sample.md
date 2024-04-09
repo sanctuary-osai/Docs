@@ -1,8 +1,4 @@
 ---
-label: Sample
-layout: page
-order: 100
+label: test
 ---
-# Sample
-
-This is a sample page demonstrating page metadata.
+# test
