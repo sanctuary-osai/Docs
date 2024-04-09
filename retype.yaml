@@ -1,6 +1,6 @@
 input: ./pages
 output: .retype
-url: https://sanctuary-osai.github.io/
+url: sanctuary-osai.github.io/
 branding:
   title: Project Name
   label: Docs
