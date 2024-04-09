@@ -3,7 +3,7 @@ output: .retype
 url: sanctuary-osai.github.io/Docs/
 branding:
   title: sanctuary-osai
-  image: pages/images/logo.png
+  image: ./images/logo.png
   label: Docs
 links:
 #  - text:
