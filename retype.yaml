@@ -2,8 +2,8 @@ input: ./pages
 output: .retype
 url: sanctuary-osai.github.io/Docs/
 branding:
-  title: Project Name
-  image: ./pages/images/logo.png
+  title: sanctuary-osai
+  image: ../pages/images/logo.png
   label: Docs
 links:
 #  - text:
