@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sanctuary-osai.github.io/sitemap.xml.gz
+Sitemap: https://sanctuary-osai.github.io/Docs/sitemap.xml.gz
